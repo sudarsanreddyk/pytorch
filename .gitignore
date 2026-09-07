@@ -10,5 +10,6 @@ wheels/
 .venv
 runs/
 mnist*/
-src/
+src/pytorch/data/
+src/pytorch/runs/
 .python*
