@@ -16,6 +16,7 @@ dependencies = [
     "tensorboard>=2.21.0",
     "torch[device-gfx1151]==2.13.0+rocm10.0.0",
     "torchaudio==2.11.0.2+rocm10.0.0",
+    "torchinfo>=1.8.0",
     "torchmetrics>=1.9.0",
     "torchvision[device-gfx1151]==0.28.0+rocm10.0.0",
     "tqdm>=4.70.0",
