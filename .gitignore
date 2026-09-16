@@ -13,3 +13,4 @@ mnist*/
 src/pytorch/data/
 src/pytorch/runs/
 .python*
+models/
