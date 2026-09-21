@@ -7,3 +7,5 @@ torchmetrics
 tqdm
 tensorboard
 torchinfo
+mlflow
+gradio 

@@ -14,3 +14,8 @@ src/pytorch/data/
 src/pytorch/runs/
 .python*
 models/
+*db
+*gz
+.gradio
+cifar*
+*.pth
